@@ -1,0 +1,22 @@
+body {
+    background-color: #f3f3f3;
+    font-family:"segoe ui",meiryo,"yu gothic","hiragino kaku gothic pron",sans-serif;
+    -webkit-font-smoothing:antialiased;
+    font-smoothing: antialiased;
+    font-smooth:always;
+				padding-top: 75px;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  cursor: default;
+}
+
+.btn-li {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
