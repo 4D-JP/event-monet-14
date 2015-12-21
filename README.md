@@ -8,3 +8,5 @@
 Angular-Wakankaコネクターと4D RESTサーバーを活用し，最小限のコーディングでデータベースにWebからアクセスする例題です。
 
 Webインターフェースは，Bootstrap, Angular-Wakanda, AngularJSで作成しました。
+
+サンプルデータの作成には，Twitter APIを使用してました。
